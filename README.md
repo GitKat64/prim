@@ -1,7 +1,7 @@
 # prim
 ### Overview
 Simple crate to find prime numbers.
-Source code can be found on [Github](https://github.com/FricknHackxr/prim).
+Source code can be found on [Github](https://github.com/GitKat64/prim).
 
 ### Example
 ```
@@ -14,4 +14,4 @@ fn main() {
 ```
 
 ### License
-This project is licensed under the [MIT license](https://github.com/FricknHackxr/prim/blob/main/LICENSE.md).
+This project is licensed under the [MIT license](https://github.com/GitKat64/prim/blob/main/LICENSE.md).
